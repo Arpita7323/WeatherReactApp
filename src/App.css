@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,31 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, sans-serif;
 }
+
+.weather-section {
+  width: 100%;
+  max-width: 600px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #ccffdc; /* Light blue background */
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.weather-section h1 {
+  text-align: center;
+  color: #00509e; /* Dark blue text color */
+}
+
+.weather-section i {
+  margin-right: 10px;
+}
+
+

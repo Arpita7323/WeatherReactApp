@@ -1,0 +1,53 @@
+.weather-app {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to right, #6dd5fa, #2980b9);
+    color: white;
+    min-height: 100vh;
+  }
+  
+  .weather-form {
+    margin-bottom: 20px;
+  }
+  
+  .city-input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 200px;
+    max-width: 80%;
+  }
+  
+  .get-weather-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .get-weather-btn:hover {
+    background-color: #2980b9;
+  }
+  
+  .weather-result {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  .weather-result h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .weather-result p {
+    margin: 5px 0 0;
+    font-size: 48px;
+  }
+  
