@@ -1,7 +1,10 @@
 
 
+screen shots of aweather App created uaing React
 
+![a1](https://github.com/Arpita7323/WeatherReactApp/assets/160032250/f27a6733-cc52-4f8a-8a87-7f53cd16866e)
 
+![a2](https://github.com/Arpita7323/WeatherReactApp/assets/160032250/630b6c29-eff6-4968-9bcc-c49d7b9b778a)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
